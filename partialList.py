@@ -1,6 +1,6 @@
 import numpy as np
 
-
+np.zeros()
 class variable:
     def __init__(self, count=0, keyList=None):
         if count == 0:
